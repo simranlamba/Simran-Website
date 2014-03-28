@@ -29,7 +29,7 @@
 <a href="About Him.html"><font color="#B22222"><strong>About Him</strong></font></a>
 <a href="Education.html"><font color="#B22222"><strong>Education</strong></font></a>
 <a href="https://www.google.com/#q=simran+lamba+us+army"><font color="#B22222"><strong>In News</strong></font></a>
-<a href="http://en.wikipedia.org/wiki/Sikhism"><font color="#B22222"><strong>Sikhism</strong></font></a>
+<a href="https://www.youtube.com/watch?v=Xwf6wPSd_2U"><font color="#B22222"><strong>Video</strong></font></a>
 <a href="Interests.html"><font color="#B22222"><strong>Interests</strong></font></a>
 </td>
 </tr>
